@@ -17,7 +17,7 @@
     "@types/mongoose-paginate": "^5.0.6",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "mongoose": "^5.5.14",
+    "mongoose": "^5.7.5",
     "mongoose-paginate": "^5.0.3",
     "nodemon": "^1.19.1",
     "typescript": "^3.5.1"
